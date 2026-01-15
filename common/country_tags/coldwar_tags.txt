@@ -1,0 +1,8 @@
+### Europe ###
+DDR = "countries/German Democratic Republic.txt"
+
+### Asia ###
+NKR = "countries/North Korea.txt"
+SKR = "countries/South Korea.txt"
+NVT = "countries/North Vietnam.txt"
+SVT = "countries/North Vietnam.txt"
