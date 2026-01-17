@@ -1,0 +1,21 @@
+state={
+	id=55
+	name="STATE_55"
+	manpower=382932
+
+	state_category = town
+
+	history = {
+		owner = SPR
+		add_core_of = SPR
+		add_core_of = NAV
+
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces={
+		932 3737 3931 3933 6903 9857 13465 
+	}
+}

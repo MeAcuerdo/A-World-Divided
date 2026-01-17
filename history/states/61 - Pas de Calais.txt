@@ -1,0 +1,34 @@
+state={
+	id=61
+	name="STATE_61"
+	manpower=3373378
+	state_category = metropolis
+
+	history = {
+		owner = FRA
+		add_core_of = FRA
+
+		victory_points = {
+			11483 25
+		}
+		victory_points = {
+			11548 10
+		}
+		victory_points = {
+			575 2
+		}
+
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			dockyard = 1
+			11548 = {
+				naval_base = 4
+			}
+		}
+	}
+	
+	provinces={
+		575 3536 11483 11548 
+	}
+}

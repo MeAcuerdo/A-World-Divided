@@ -1,0 +1,24 @@
+state={
+	id=57
+	name="STATE_57"
+	manpower=857770
+	state_category = city
+
+	history = {
+		owner = SPR
+		add_core_of = SPR
+
+		victory_points = {
+			3816 10
+		}
+
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+		}
+	}
+
+	provinces={
+		798 813 871 948 3816 3909 3954 6878 7213 9812 11737 13222 13223 
+	}
+}
