@@ -1,0 +1,10 @@
+state={
+	id=175
+	name="STATE_175"
+	provinces={
+		752 755 760 943 3751 3754 3915 3946 3948 6766 6770 6773 6915 6917 6931 6960 6962 9723 9853 9898 11702 11709 11711 11718 11877 
+	}
+	manpower=0
+	buildings_max_level_factor=1
+	local_supplies=0
+}
