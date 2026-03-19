@@ -11,4 +11,5 @@ state={
 		owner = EGY
 	}
 	force_link_ownership_to = 182
+	impassable = yes
 }
