@@ -1,0 +1,13 @@
+state={
+	id=344
+	name="STATE_344"
+	provinces={
+		2097 3795 7994 8123 10793 12046 12855 13425 
+	}
+	manpower=0
+	buildings_max_level_factor=1
+	local_supplies=0
+	history = {
+		owner = IRQ
+	}
+}

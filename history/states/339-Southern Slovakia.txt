@@ -1,0 +1,13 @@
+state={
+	id=339
+	name="STATE_339"
+	provinces={
+		3716 6561 6573 9537 11679 
+	}
+	manpower=0
+	buildings_max_level_factor=1
+	local_supplies=0
+	history = {
+		owner = CZE
+	}
+}

@@ -10,4 +10,5 @@ state={
 	history = {
 		owner = FRA
 	}
+	impassable = yes
 }

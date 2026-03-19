@@ -1,0 +1,13 @@
+state={
+	id=333
+	name="STATE_333"
+	provinces={
+		1964 1966 2020 2063 4909 5065 8164 10818 10891 10928 12840 12991 
+	}
+	manpower=0
+	buildings_max_level_factor=1
+	local_supplies=0
+	history = {
+		owner = ENG
+	}
+}

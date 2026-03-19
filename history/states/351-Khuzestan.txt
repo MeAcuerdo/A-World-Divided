@@ -1,0 +1,13 @@
+state={
+	id=351
+	name="STATE_351"
+	provinces={
+		5005 7953 
+	}
+	manpower=0
+	buildings_max_level_factor=1
+	local_supplies=0
+	history = {
+		owner = PER
+	}
+}

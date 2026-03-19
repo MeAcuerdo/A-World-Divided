@@ -1,0 +1,13 @@
+state={
+	id=338
+	name="STATE_338"
+	provinces={
+		3713 3731 6716 6751 11520 
+	}
+	manpower=0
+	buildings_max_level_factor=1
+	local_supplies=0
+	history = {
+		owner = HUN
+	}
+}

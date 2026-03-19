@@ -1,0 +1,13 @@
+state={
+	id=350
+	name="STATE_350"
+	provinces={
+		1888 1957 5073 7573 7602 8009 10890 11671 12748 
+	}
+	manpower=0
+	buildings_max_level_factor=1
+	local_supplies=0
+	history = {
+		owner = PER
+	}
+}
