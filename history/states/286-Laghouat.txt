@@ -1,13 +1,13 @@
 state={
-	id=203
-	name="STATE_203"
+	id=286
+	name="STATE_286"
 	provinces={
-		6666 9622 11590 13124
+		3991 4018 7008 7040 10045 12018 12020 13074 
 	}
 	manpower=0
 	buildings_max_level_factor=1
 	local_supplies=0
 	history = {
-		owner = SWI
+		owner = FRA
 	}
 }

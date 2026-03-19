@@ -1,0 +1,13 @@
+state={
+	id=288
+	name="STATE_288"
+	provinces={
+		1058 1141 1160 4046 7065 7081 9976 10059 10078 11953 12034 12051 13077 
+	}
+	manpower=0
+	buildings_max_level_factor=1
+	local_supplies=0
+	history = {
+		owner = FRA
+	}
+}

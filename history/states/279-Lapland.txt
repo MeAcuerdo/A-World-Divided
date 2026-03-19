@@ -1,0 +1,13 @@
+state={
+	id=279
+	name="STATE_279"
+	provinces={
+		103 124 167 197 203 2992 3055 3069 3097 3107 3156 3158 3193 6061 6076 6087 6128 6137 6142 6179 6183 9112 9189 11030 11085 11115 11125 11130 11167 11204 
+	}
+	manpower=0
+	buildings_max_level_factor=1
+	local_supplies=0
+	history = {
+		owner = FIN
+	}
+}
