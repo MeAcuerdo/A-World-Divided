@@ -1,13 +1,13 @@
 state={
-	id=281
-	name="STATE_281"
+	id=369
+	name="STATE_369"
 	provinces={
-		1105 3987 7005 9983 10082 11957 12000 13145 13179 
+		1060 1130 4060 4136 7206 9992 10120 13078 
 	}
 	manpower=0
 	buildings_max_level_factor=1
 	local_supplies=0
 	history = {
-		owner = FRA
+		owner = LBA
 	}
 }

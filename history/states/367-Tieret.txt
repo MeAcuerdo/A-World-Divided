@@ -1,8 +1,8 @@
 state={
-	id=281
-	name="STATE_281"
+	id=367
+	name="STATE_367"
 	provinces={
-		1105 3987 7005 9983 10082 11957 12000 13145 13179 
+		4992 
 	}
 	manpower=0
 	buildings_max_level_factor=1
@@ -10,4 +10,6 @@ state={
 	history = {
 		owner = FRA
 	}
+	impassable = yes
+	force_link_ownership_to = 281
 }
